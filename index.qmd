@@ -1,5 +1,5 @@
 ---
-title: "My Website"
+title: "My Cool Website"
 about:
   id: me
   template: broadside
