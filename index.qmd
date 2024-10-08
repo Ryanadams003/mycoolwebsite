@@ -7,7 +7,6 @@ about:
 ---
 
 :::{#me}
-
 ## Goals
 My short term goal (and Master's project) is to investigate migrating river herring movements in the Bellamy River in Dover, NH and determine if fish are moving upstream past the site of a former dam that has recently been removed. Long term, I hope to eventually become a fish biologist at a state or federal natural resource agency.
 
